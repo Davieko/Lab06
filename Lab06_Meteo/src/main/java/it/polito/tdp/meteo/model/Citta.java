@@ -5,7 +5,7 @@ import java.util.List;
 public class Citta {
 	
 	
-	private String nome;
+	private static String nome;
 	private List<Rilevamento> rilevamenti;
 	private int counter = 0;
 	
